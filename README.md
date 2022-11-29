@@ -12,6 +12,8 @@
 
 - 🌐 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![NextJs](https://img.shields.io/badge/-NextJs-333333?style=flat&logo=NextJs)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -44,6 +46,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/agustin-daniel-messina/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Agustin%20Messina-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/agussmessi_ok/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-agussmessi_ok-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:agustindmessina@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-agustindmessina@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
